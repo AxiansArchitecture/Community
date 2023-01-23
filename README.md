@@ -22,13 +22,27 @@ Here are the core members of the Architecture Core team:
 
 TODO
 
+## Available Resources :open_file_folder:
+
+ - C4Model
+ - How to extract functional and nonfunctional requirements
+ - Case studies and success stories from our business units
+ - Recomended books and articles
+ - Tutorials and video guides
+
 ## Community & Contributing Guidelines :muscle:
 
-TODO
+ - How to contribute to this community
 
 ## Events :tropical_drink:
 
-TODO
+ - Kickoff Lunch - TBA
+ - C4Model Workshop - TBA
+ - Webinars
+ - Events
+ - Conferences
+
+
 
 ## Contact Information :bellhop_bell:
 
