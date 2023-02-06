@@ -17,35 +17,3 @@ Here are the core members of the Architecture Core team:
 |Hugo Viegas          |Custom Solutions|.NET, Azure, Databases
 |Nuno Franganito          |Custom Solutions|.NET, Azure
 
-
-## Getting Started :rocket:
-
-TODO
-
-## Available Resources :open_file_folder:
-
- - C4Model
- - How to extract functional and nonfunctional requirements
- - Case studies and success stories from our business units
- - Recomended books and articles
- - Tutorials and video guides
-
-## Community & Contributing Guidelines :muscle:
-
- - How to contribute to this community
-
-## Events :tropical_drink:
-
- - Kickoff Lunch - TBA
- - C4Model Workshop - TBA
- - Webinars
- - Events
- - Conferences
-
-
-
-## Contact Information :bellhop_bell:
-
-TODO
-
-
